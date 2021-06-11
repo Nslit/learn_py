@@ -1,3 +1,4 @@
+# Знакомство с BeautifulSoup
 from urllib.request import urlopen, urlretrieve
 from bs4 import BeautifulSoup
 
